@@ -3,6 +3,7 @@ This repo contains links to all the repos and pull requests of projects and chal
 
 ## Data Science and Machine Learning
 ### Sports Analytics
+[Pythagorean Expectation in Sports](https://github.com/mcrd25/pythagexp-sports)
 
 ### Machine Learning
 
